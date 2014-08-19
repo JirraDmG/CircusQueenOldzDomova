@@ -1,0 +1,11 @@
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\UnityEditor.dll
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\UnityEngine.dll
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\Mono.Cecil.dll
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\nunit.framework.dll
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\Unity.DataContract.dll
+D:\Cloud\Unity\CircusQueen\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Cloud\Unity\CircusQueen\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\Cloud\Unity\CircusQueen\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Cloud\Unity\CircusQueen\obj\Debug\Assembly-CSharp-firstpass.pdb
